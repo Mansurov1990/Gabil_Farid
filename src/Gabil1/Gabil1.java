@@ -6,6 +6,9 @@ public class Gabil1 {
         System.out.println("my second commit");
         System.out.println("i hope you liked!");
         System.out.println("hello farid approve from your github application");
+        System.out.println("my second commit");
+        System.out.println("my second commit");
         System.out.println("hello farid approve from your github application");
+
     }
 }
